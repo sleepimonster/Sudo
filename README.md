@@ -1,2 +1,2 @@
-# Sudo
+# Sudoku Solver
  AI_Assignment
